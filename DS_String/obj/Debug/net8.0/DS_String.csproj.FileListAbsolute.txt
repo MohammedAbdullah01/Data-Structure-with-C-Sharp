@@ -1,0 +1,15 @@
+C:\Users\mm890\source\repos\data structure with c sharp\DS_String\bin\Debug\net8.0\DS_String.exe
+C:\Users\mm890\source\repos\data structure with c sharp\DS_String\bin\Debug\net8.0\DS_String.deps.json
+C:\Users\mm890\source\repos\data structure with c sharp\DS_String\bin\Debug\net8.0\DS_String.runtimeconfig.json
+C:\Users\mm890\source\repos\data structure with c sharp\DS_String\bin\Debug\net8.0\DS_String.dll
+C:\Users\mm890\source\repos\data structure with c sharp\DS_String\bin\Debug\net8.0\DS_String.pdb
+C:\Users\mm890\source\repos\data structure with c sharp\DS_String\obj\Debug\net8.0\DS_String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mm890\source\repos\data structure with c sharp\DS_String\obj\Debug\net8.0\DS_String.AssemblyInfoInputs.cache
+C:\Users\mm890\source\repos\data structure with c sharp\DS_String\obj\Debug\net8.0\DS_String.AssemblyInfo.cs
+C:\Users\mm890\source\repos\data structure with c sharp\DS_String\obj\Debug\net8.0\DS_String.csproj.CoreCompileInputs.cache
+C:\Users\mm890\source\repos\data structure with c sharp\DS_String\obj\Debug\net8.0\DS_String.sourcelink.json
+C:\Users\mm890\source\repos\data structure with c sharp\DS_String\obj\Debug\net8.0\DS_String.dll
+C:\Users\mm890\source\repos\data structure with c sharp\DS_String\obj\Debug\net8.0\refint\DS_String.dll
+C:\Users\mm890\source\repos\data structure with c sharp\DS_String\obj\Debug\net8.0\DS_String.pdb
+C:\Users\mm890\source\repos\data structure with c sharp\DS_String\obj\Debug\net8.0\DS_String.genruntimeconfig.cache
+C:\Users\mm890\source\repos\data structure with c sharp\DS_String\obj\Debug\net8.0\ref\DS_String.dll
